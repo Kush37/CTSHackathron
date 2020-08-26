@@ -4,5 +4,5 @@
 2. Usecase name Battery  
 
 Software used
-  Eclipse 
+  Eclipse and
   Maven for Json libraries

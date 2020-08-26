@@ -2,3 +2,7 @@
 1. Usecase name Memory
 
 2. Usecase name Battery  
+
+Software used
+  Eclipse 
+  Maven for Json libraries
